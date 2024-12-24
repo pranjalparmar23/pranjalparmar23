@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an undergraduate IT student. Ready to develop my skills on AI-Ml and Data Analysis. I would also like to work on websites as a Frontend Developer.
+I'm an undergraduate IT student. Ready to develop my skills on AI-ML and Data Analysis. I would also like to work on websites as a Frontend Developer.
 
 
 ## 🌐 Socials:
