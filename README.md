@@ -8,7 +8,6 @@ I'm an undergraduate IT student. Ready to develop my skills on AI-ML and Data An
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranjal-parmar-4a580322a/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/pranjalparmar23/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/pranjalparmar23?igsh=ZjQxdmR6YXUxZm5t) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/pranjalparmar23?t=_j9_Zrgm3OX1S6emN9-Irw&s=08)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:pranjal23parmar@gmail.com)
 
